@@ -10,3 +10,8 @@ I like this restaurant because it is very **clean** inside and the customer serv
 2. *Dish 2:* **Grape Salad**
 3. *Dish 3:* **Mashed Potatoes**
 
+
+## Places To Visit
+* Maryville Downtown
+* Mozingo Lake
+* Theatre
