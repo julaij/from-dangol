@@ -16,6 +16,6 @@ I like this restaurant because it is very **clean** inside and the customer serv
 * Mozingo Lake
 * Theatre
 
-![Mymedia](MyMedia.md)
+!(MyMedia.md)
 
 
