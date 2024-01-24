@@ -29,3 +29,16 @@ I would like to recommend four different songs to my friends.
 |Yellow|I like to listen it when I am stressed|Cold Play|
 |Riptide|It has good music|Vance Joy|
 |Car Radio|It has good lyrics|Twenty One Pilots|
+
+
+---
+
+# My Favourite Quotes
+Here are my favorite quotes from Martin Luther King and Nelson Mandela
+>"I was a drum major for justice, peace and righteousness." - *Martin Luther King*
+
+>"A winner is a dreamer who never gives up." - "Nelson Mandela"
+
+
+
+
