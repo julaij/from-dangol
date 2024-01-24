@@ -39,6 +39,23 @@ Here are my favorite quotes from Martin Luther King and Nelson Mandela
 
 >"A winner is a dreamer who never gives up." - "Nelson Mandela"
 
+---
 
+# JavaScript Code Fencing
+This is a JavaScript program that gets the first key that satisfies the following testing function. Otherwise it 
+returns undefined.Use Object.keys(obj) to get all the properties of the object, Array.prototype.find() to test
+each key-value pair using fn.The callback receives three arguments - the value, the key and the object.
 
+```javascript
+    const findKey = (obj, fn) => Object.keys(obj).find(key => fn(obj[key], key, obj));
 
+    console.log(findKey(
+    {
+        barney: { age: 36, active: true },
+        fred: { age: 40, active: false },
+        pebbles: { age: 1, active: true }
+    },
+    o => o['active']
+    ));
+```
+[Code Snippet Source](https://www.w3resource.com/javascript-exercises/fundamental/javascript-fundamental-exercise-236.php)
